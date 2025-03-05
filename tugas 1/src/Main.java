@@ -1,7 +1,7 @@
-import java.util.Scanner;
+import java.util.Scanner;// mengipor kelas
 
-public class Main {
-    private static Scanner penginput = new Scanner(System.in);
+public class Main {// kelas utama
+    private static Scanner penginput = new Scanner(System.in);//variabel
 
     public static void main(String[] args) {
         while (true) {
